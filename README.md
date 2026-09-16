@@ -31,9 +31,3 @@ This assignment analyzes a product dataset using basic Excel functions. The data
 | `RIGHT` | Extracts characters from the right |
 | `MID` | Extracts characters from the middle |
 
-## Formulas Used
-
-### Total Price
-
-```excel
-=SUM(D2:D35)
